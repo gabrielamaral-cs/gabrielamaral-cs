@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**gabrielamaral-cs/gabrielamaral-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Gabriel, a Computer Science student at Universidade Federal de Uberlândia.
 
-Here are some ideas to get you started:
+💻 I'm interested in software development, artificial intelligence and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I enjoy building projects, learning new technologies and turning ideas into practical solutions.
+
+### 🛠️ Technologies & Tools
+
+- C
+- Python
+- Git & GitHub
+- PyTorch
+- Linux
+- VS Code
+
+### 📚 Currently learning
+
+- Data Structures & Algorithms
+- Machine Learning
+- Software Development
+- Computer Architecture
+
+### 🚀 Projects
+
+Here are some of the projects I've been working on:
+
+- **ResNet Image Classification** — Deep learning project using ResNet architectures.
+- **LIPAI Projects** — Machine learning and computer vision projects.
+- **UFU Computer Science** — Projects and exercises from my Computer Science degree.
+
+### 🎯 A little more about me
+
+- 🎓 Computer Science student at UFU
+- 🇧🇷 Based in Brazil
+- 💡 Always looking for something new to learn
+- 🎮 Gaming enthusiast
+
+### 📫 Connect with me
+
+- [LinkedIn] https://www.linkedin.com/in/gabriel-amaral-496145385/
