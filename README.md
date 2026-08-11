@@ -39,4 +39,4 @@ Here are some of the projects I've been working on:
 
 ### 📫 Connect with me
 
-- [LinkedIn] https://www.linkedin.com/in/gabriel-amaral-496145385/
+- [LinkedIn] https://www.linkedin.com/in/gabrielamaral-cs/
