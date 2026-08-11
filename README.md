@@ -6,29 +6,12 @@ I'm Gabriel, a Computer Science student at Universidade Federal de Uberlândia.
 
 🚀 I enjoy building projects, learning new technologies and turning ideas into practical solutions.
 
-### 🛠️ Technologies & Tools
+### 🛠️ Technologies & Interests
 
-- C
-- Python
-- Git & GitHub
-- PyTorch
-- Linux
-- VS Code
+C • Python • Git & GitHub • PyTorch • Linux
 
-### 📚 Currently learning
-
-- Data Structures & Algorithms
-- Machine Learning
-- Software Development
-- Computer Architecture
-
-### 🚀 Projects
-
-Here are some of the projects I've been working on:
-
-- **ResNet Image Classification** — Deep learning project using ResNet architectures.
-- **LIPAI Projects** — Machine learning and computer vision projects.
-- **UFU Computer Science** — Projects and exercises from my Computer Science degree.
+Currently exploring:
+Data Structures & Algorithms • Machine Learning • Software Development
 
 ### 🎯 A little more about me
 
@@ -39,4 +22,4 @@ Here are some of the projects I've been working on:
 
 ### 📫 Connect with me
 
-- [LinkedIn] https://www.linkedin.com/in/gabrielamaral-cs/
+[LinkedIn] https://www.linkedin.com/in/gabrielamaral-cs/
