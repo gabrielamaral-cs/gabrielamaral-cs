@@ -6,18 +6,14 @@ I'm Gabriel, a Computer Science student at Universidade Federal de Uberlândia.
 
 🚀 I enjoy building projects, learning new technologies and turning ideas into practical solutions.
 
-### 🛠️ Technologies & Interests
+### Currently exploring
 
-C • Python • Git & GitHub • PyTorch • Linux
-
-Currently exploring:
 Data Structures & Algorithms • Machine Learning • Software Development
 
 ### 🎯 A little more about me
 
 - 🎓 Computer Science student at UFU
 - 🇧🇷 Based in Brazil
-- 💡 Always looking for something new to learn
 - 🎮 Gaming enthusiast
 
 ### 📫 Connect with me
